@@ -19,7 +19,7 @@
 1. 克隆仓库：
 
 ```sh
-git clone https://github.com/sunls24/nextai
+git clone 
 ```
 
 2. 安装依赖项：
@@ -36,7 +36,3 @@ touch .env.local
 # 本地运行
 pnpm run dev
 ```
-
-## ☁️ 使用 Vercel 部署
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsunls24%2Fnextai&env=OPENAI_API_KEY,GOOGLE_API_KEY,GOOGLE_ENGINE_ID,AMAP_KEY)
